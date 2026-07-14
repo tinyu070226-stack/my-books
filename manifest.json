@@ -2,7 +2,7 @@
   "name": "學習資料庫 Study Vault",
   "short_name": "學習資料庫",
   "description": "精美的本地書籍與筆記學習庫",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#F7F5F0",
   "theme_color": "#3A2E27",
